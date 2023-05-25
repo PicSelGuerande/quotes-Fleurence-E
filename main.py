@@ -21,7 +21,11 @@ def main():
             view_quotes(quotes)
         elif choice == "3":
             add_quote(quotes, quotes.txt)
+<<<<<<< HEAD
+        elif choice == "4" : # gestion de display_count()
+=======
         elif choice == "4":  # gestion de display_count()
+>>>>>>> 413c7e2b824cef433f18932c80a735218cb76f26
             count = int(input("Enter the number of quotes to display: "))
             display_quotes(quotes, count)
         elif choice == "5":
