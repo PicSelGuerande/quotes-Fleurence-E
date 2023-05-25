@@ -9,3 +9,4 @@ Un programme python qui génère des citations aléatoires.
 
 -contributor-1 : https://github.com/LeGn404/quotes-Bourdiol-E   
 -contributor-2 : https://github.com/Maxence02/quotes-Durand-E  
+-contributor-3 : https://github.com/PicSelGuerande/quotes-FLeury-E
